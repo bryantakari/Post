@@ -1,0 +1,28 @@
+.content{
+    height: 100vh;
+    width: 100vw;
+    
+    padding-top: 40px !important;
+}
+.input-add-form{
+    resize: none;
+}
+
+.contentBody{
+    overflow-y: scroll;
+    padding:16px;
+    padding-top: 10px !important;
+    height: 70vh;
+    position: relative;
+}
+.contentTitle{
+    margin-top: 40px;
+    padding:16px;
+}
+.contentInput{
+    padding-left: 16px;
+}
+
+.button-card{
+    margin-left: 10px;
+}
